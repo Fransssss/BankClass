@@ -1,6 +1,6 @@
 // Title:
 // Purpose:
-//
+// Enjoy the process - Practice makes improvement
 // Author: Fransiskus Agapa
 
 #include <iostream>
